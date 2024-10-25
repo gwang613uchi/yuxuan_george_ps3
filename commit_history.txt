@@ -1,0 +1,31 @@
+* 6bc5d1c Added commit history file
+| *   84d6496 Merge pull request #4 from gwang613uchi/histogram
+| |\  
+| | *   d6de81d Merge branch 'main' into histogram
+| | |\  
+| | |/  
+| |/|   
+| * |   7debf82 Merge pull request #3 from gwang613uchi/describe
+| |\ \  
+| |/ /  
+|/| |   
+* | | 486325a Added describe_function to return head and describe
+| * |   0b9be84 Merge pull request #2 from gwang613uchi/merge_conflict_name_2
+| |\ \  
+| | * | e9d7007 Merge branch 'main' into merge_conflict_name_2
+| |/| | 
+|/|/ /  
+| * |   bc2648e Merge pull request #1 from gwang613uchi/merge_conflict_name_1
+| |\ \  
+* | | | 4a359d0 Replace Dema Therese with Yuxuan Geng
+|/ / /  
+* | | 64e5723 Add files via upload
+* | | 6d149be restore
+* | | c44e863 Replaced 'Dema Therese' with 'George Wang' in ps3_pair.qmd
+| | * c01b1c2 Histogram changed
+| |/  
+| | * 78193f8 Update ps3_pair.qmd
+| |/  
+| * 06ce8ce Update ps3_pair.qmd
+|/  
+* 623aeaa Create ps3_pair.qmd
