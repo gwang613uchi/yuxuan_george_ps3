@@ -1,31 +1,17 @@
-* 6bc5d1c Added commit history file
-| *   84d6496 Merge pull request #4 from gwang613uchi/histogram
-| |\  
-| | *   d6de81d Merge branch 'main' into histogram
-| | |\  
-| | |/  
-| |/|   
-| * |   7debf82 Merge pull request #3 from gwang613uchi/describe
-| |\ \  
-| |/ /  
-|/| |   
-* | | 486325a Added describe_function to return head and describe
-| * |   0b9be84 Merge pull request #2 from gwang613uchi/merge_conflict_name_2
-| |\ \  
-| | * | e9d7007 Merge branch 'main' into merge_conflict_name_2
-| |/| | 
-|/|/ /  
-| * |   bc2648e Merge pull request #1 from gwang613uchi/merge_conflict_name_1
-| |\ \  
-* | | | 4a359d0 Replace Dema Therese with Yuxuan Geng
-|/ / /  
-* | | 64e5723 Add files via upload
-* | | 6d149be restore
-* | | c44e863 Replaced 'Dema Therese' with 'George Wang' in ps3_pair.qmd
-| | * c01b1c2 Histogram changed
-| |/  
-| | * 78193f8 Update ps3_pair.qmd
-| |/  
-| * 06ce8ce Update ps3_pair.qmd
-|/  
-* 623aeaa Create ps3_pair.qmd
+670fe01 - emmaa1123, 15 minutes ago : Added full commit history
+6bc5d1c - emmaa1123, 30 minutes ago : Added commit history file
+84d6496 - emmaa1123, 36 minutes ago : Merge pull request #4 from gwang613uchi/histogram
+d6de81d - emmaa1123, 37 minutes ago : Merge branch 'main' into histogram
+7debf82 - gwang613uchi, 50 minutes ago : Merge pull request #3 from gwang613uchi/describe
+c01b1c2 - gwang154, 54 minutes ago : Histogram changed
+78193f8 - gwang154, 61 minutes ago : Update ps3_pair.qmd
+486325a - emmaa1123, 75 minutes ago : Added describe_function to return head and describe
+0b9be84 - gwang613uchi, 2 hours ago : Merge pull request #2 from gwang613uchi/merge_conflict_name_2
+e9d7007 - gwang613uchi, 2 hours ago : Merge branch 'main' into merge_conflict_name_2
+bc2648e - emmaa1123, 2 hours ago : Merge pull request #1 from gwang613uchi/merge_conflict_name_1
+4a359d0 - emmaa1123, 2 hours ago : Replace Dema Therese with Yuxuan Geng
+06ce8ce - gwang154, 2 hours ago : Update ps3_pair.qmd
+64e5723 - gwang613uchi, 2 hours ago : Add files via upload
+6d149be - gwang154, 2 hours ago : restore
+c44e863 - gwang154, 2 hours ago : Replaced 'Dema Therese' with 'George Wang' in ps3_pair.qmd
+623aeaa - gwang154, 2 hours ago : Create ps3_pair.qmd
