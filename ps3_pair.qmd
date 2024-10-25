@@ -1,6 +1,6 @@
 ---
 title: "30538 Problem Set 3: git pair"
-author: "George Wang"
+author: "Yuxuan Geng & George Wang"
 format: 
   pdf:
     keep-tex: true
@@ -26,10 +26,11 @@ import altair as alt
 np.random.seed(42)
 data = pd.DataFrame(np.random.rand(100), columns=['Random Numbers'])
 
-def preview_data(df):
+def combined_function(df):
     head = df.head()
 
-    # Create a histogram of the 'Random Numbers' column
+    describe = df.describe()
+
     histogram = alt.Chart(df).mark_bar().encode(
         alt.X('Random Numbers', bin=True),
         y='count()'
@@ -37,11 +38,15 @@ def preview_data(df):
         title='Histogram of Random Numbers'
     )
 
-    return [head, histogram]
+    return [head, describe, histogram]
 
+result = combined_function(data)
 
-preview_data(data)
+print("Head of the DataFrame:")
+print(result[0])
 
-result = preview_data(data)
-result[1].display()
+print("\nDescription of the DataFrame:")
+print(result[1])
+
+result[2].display()
 ```
