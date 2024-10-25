@@ -25,8 +25,13 @@ import numpy as np
 np.random.seed(42)
 data = pd.DataFrame(np.random.rand(100), columns=['Random Numbers'])
 
-def preview_data(df):
-    print(df.head())
+def describe_function(df):
+    return [df.head(), df.describe()]
 
-preview_data(data)
+result = describe_function(data)
+print("Head of the DataFrame:")
+print(result[0])
+
+print("\nDescription of the DataFrame:")
+print(result[1])
 ```
